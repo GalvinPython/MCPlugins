@@ -1,0 +1,5 @@
+name: blocksToAir
+version: 1.0.1
+author: Galvin
+main: me.galvin.blocksToAir.Main
+description: Every block you look at turns to air. Crazy isn't it?
